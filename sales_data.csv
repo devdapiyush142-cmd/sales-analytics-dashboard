@@ -1,0 +1,13 @@
+Order_Date,Category,Product,Quantity,Unit_Price,Revenue
+2026-01-05,Electronics,Laptop,2,1000,2000
+2026-01-12,Clothing,Jacket,5,80,400
+2026-01-18,Electronics,Headphones,10,150,1500
+2026-02-02,Home & Kitchen,Blender,3,120,360
+2026-02-15,Clothing,Sneakers,4,100,400
+2026-02-28,Electronics,Laptop,1,1000,1000
+2026-03-05,Home & Kitchen,Coffee Maker,2,250,500
+2026-03-22,Clothing,Jacket,3,80,240
+2026-04-10,Electronics,Smartwatch,8,200,1600
+2026-04-25,Home & Kitchen,Blender,5,120,600
+2026-05-02,Electronics,Headphones,12,150,1800
+2026-05-14,Clothing,Sneakers,7,100,700
